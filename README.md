@@ -1,0 +1,1 @@
+# Food_Menu: This program will display a menu of 3 choices, it will tell you that if you order a certain amount of each item you will be given a discount price. The code will keep on cycling through until the user is done ordering. After each entry, a subtotal will display, and at the end of the final order, a final total will display along with a message.
